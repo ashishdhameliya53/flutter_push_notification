@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "205755943185",
+    "firebase_url": "https://firbasedemo-f4d83-default-rtdb.firebaseio.com",
+    "project_id": "firbasedemo-f4d83",
+    "storage_bucket": "firbasedemo-f4d83.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205755943185:android:a06384895e6b326c6de4b0",
+        "android_client_info": {
+          "package_name": "com.example.firebaseauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "205755943185-k0i021jvic5vic14v2i1ntlbo36aq87t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKaUWv4OuvSwtydfKt_7w7x07ZKZltNbk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "205755943185-k0i021jvic5vic14v2i1ntlbo36aq87t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205755943185:android:91941751488893ba6de4b0",
+        "android_client_info": {
+          "package_name": "com.example.flutter_push_notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "205755943185-k0i021jvic5vic14v2i1ntlbo36aq87t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKaUWv4OuvSwtydfKt_7w7x07ZKZltNbk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "205755943185-k0i021jvic5vic14v2i1ntlbo36aq87t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
